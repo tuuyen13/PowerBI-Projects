@@ -4,7 +4,7 @@ This repository contains a collection of Power BI projects that solve real-world
 ## 📌 Case Studies
 - [Case Study #1 - Data Professional Survey](#1-case-study-1---data-professional-survey)
 - [Case Study #2 - Analyzing Customer Churn](#2-case-study-2---analyzing-customer-churn)
-- [Case Study #3 - Competitor Sales Analysis](#3-case-study-3---competitor-sales-analysis))
+- [Case Study #3 - Competitor Sales Analysis](#3-case-study-3---competitor-sales-analysis)
 - [Case Study #4 - HR Analytics](#4-case-study-4---hr-analytics)
 
 ## 1. Case Study #1 - Data Professional Survey
@@ -12,7 +12,7 @@ This repository contains a collection of Power BI projects that solve real-world
 
 ## 2. Case Study #2 - Analyzing Customer Churn
 The problem: Solving customer churn
-- A fictitious dataset about churn from a Telecom provider (Databel)
+- A dataset about churn from a Telecom provider (Databel)
 - Your task: discover why customers are churning
 ### Customer status
 | Variable           | Description                                       |
