@@ -1,6 +1,6 @@
 # PowerBI-Projects
 
-This repository contains a collection of Power BI projects that sole real-world problems
+This repository contains a collection of Power BI projects that solve real-world problems
 ## 📌 Case Studies
 - [Case Study #1 - Data Professional Survey](#1-case-study-1---data-professional-survey)
 - [Case Study #2 - Analyzing Customer Churn](#2-case-study-2---analyzing-customer-churn)
